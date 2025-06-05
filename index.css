@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+img{
+    width: 60px;
+    margin: 5px;
+}
+
+header{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-left: 8px;
+}
+
+#botton{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+#botton:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    padding: 12px;
+}
